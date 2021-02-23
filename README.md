@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tom Solberg</h1>
-<h3 align="center">A machine learning engineer from Sweden - working remotely for [Embark Studios](https://github.com/EmbarkStudios)</h3>
+<h3 align="center">A machine learning engineer from Sweden - working remotely for <a href="https://github.com/EmbarkStudios">Embark Studios</a></h3>
 
 - 🎮 My main hobby project right now is [lore](https://github.com/tgolsson/lore) - a toy game engine using [Rune](https://rune-rs.github.io/)
 
